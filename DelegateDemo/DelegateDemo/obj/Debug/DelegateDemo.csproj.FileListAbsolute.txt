@@ -1,0 +1,6 @@
+c:\users\willy.herrera\documents\visual studio 2015\Projects\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+c:\users\willy.herrera\documents\visual studio 2015\Projects\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+c:\users\willy.herrera\documents\visual studio 2015\Projects\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+c:\users\willy.herrera\documents\visual studio 2015\Projects\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+c:\users\willy.herrera\documents\visual studio 2015\Projects\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+c:\users\willy.herrera\documents\visual studio 2015\Projects\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

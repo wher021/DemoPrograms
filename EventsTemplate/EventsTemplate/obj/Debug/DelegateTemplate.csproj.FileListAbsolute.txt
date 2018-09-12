@@ -1,0 +1,6 @@
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventsTemplate\bin\Debug\EventsTemplate.exe.config
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventsTemplate\obj\Debug\EventsTemplate.exe
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventsTemplate\obj\Debug\EventsTemplate.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventsTemplate\bin\Debug\EventsTemplate.exe
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventsTemplate\bin\Debug\EventsTemplate.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventsTemplate\obj\Debug\DelegateTemplate.csprojResolveAssemblyReference.cache

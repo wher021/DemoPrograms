@@ -1,0 +1,9 @@
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieModel\bin\Debug\MovieModel.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieModel\bin\Debug\MovieModel.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieModel\obj\Debug\MovieModel.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieModel\obj\Debug\MovieModel.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieModel\bin\Debug\MovieModel.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieModel\bin\Debug\MovieModel.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieModel\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieModel\obj\Debug\MovieModel.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieModel\obj\Debug\MovieModel.pdb

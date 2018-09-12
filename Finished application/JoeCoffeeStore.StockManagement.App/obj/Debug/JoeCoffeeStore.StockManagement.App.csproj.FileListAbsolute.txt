@@ -1,0 +1,26 @@
+C:\Dropbox\Work\PluralSight\Practical MVVM\practical-mvvm-m1-intro\Demos\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.App.exe.config
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.App.exe.config
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App.exe
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.App.exe
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.App.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.DAL.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\MahApps.Metro.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.DAL.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\bin\Debug\MahApps.Metro.xml
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\View\CoffeeDetailView.g.cs
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\View\CoffeeOverviewView.g.cs
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\App.g.cs
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App_MarkupCompile.cache
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App_MarkupCompile.lref
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\App.baml
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\View\CoffeeDetailView.baml
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\View\CoffeeOverviewView.baml
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App.g.resources
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App.Properties.Resources.resources
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.App\obj\Debug\JoeCoffeeStore.StockManagement.App.csproj.GenerateResource.Cache

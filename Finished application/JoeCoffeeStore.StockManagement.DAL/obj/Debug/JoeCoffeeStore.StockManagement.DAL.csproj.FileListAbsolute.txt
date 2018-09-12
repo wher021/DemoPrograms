@@ -1,0 +1,14 @@
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.DAL.dll
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.DAL.pdb
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.dll
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.DAL.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.DAL.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.DAL\bin\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.DAL\obj\Debug\JoeCoffeeStore.StockManagement.DAL.pdb

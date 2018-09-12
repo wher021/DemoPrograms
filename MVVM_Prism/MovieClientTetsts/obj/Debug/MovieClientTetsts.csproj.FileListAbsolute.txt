@@ -1,0 +1,99 @@
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.csprojResolveAssemblyReference.cache
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.dll
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.pdb
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.dll
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.dll
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.exe
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.dll
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.dll
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.pdb
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.pdb
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.pdb
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.xml
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.xml
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.dll
+C:\Users\willy.herrera\Documents\Visual Studio 2015\Projects\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\MVVM-20170107T180437Z\MVVM\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.csprojResolveAssemblyReference.cache
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.dll
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.pdb
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.dll
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.dll
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.exe
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.dll
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.dll
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.pdb
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.pdb
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.pdb
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.xml
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.xml
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.csprojResolveAssemblyReference.cache
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.dll
+C:\Users\Ian.Walker\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.exe
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.xml
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.xml
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.exe
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieClient.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieModel.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\MovieService.pdb
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Castle.Core.xml
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Moq.xml
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.dll
+C:\Users\wille\Desktop\MVVM_Demo\MVVM_Demo\MovieClientTetsts\obj\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieClientTetsts.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Castle.Core.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Moq.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieClient.exe
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieModel.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieService.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Prism.Wpf.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Prism.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieClient.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieModel.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\MovieService.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Castle.Core.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Moq.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Prism.Wpf.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\bin\Debug\Prism.xml
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\obj\Debug\MovieClientTetsts.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\obj\Debug\MovieClientTetsts.dll
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\MVVM_Prism\MovieClientTetsts\obj\Debug\MovieClientTetsts.pdb
+C:\Users\wille\Desktop\DEMO2\DEMO\MVVM_Prism\MovieClientTetsts\obj\Debug\MovieClientTetsts.csprojResolveAssemblyReference.cache

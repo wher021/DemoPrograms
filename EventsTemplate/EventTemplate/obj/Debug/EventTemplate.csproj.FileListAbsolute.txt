@@ -1,0 +1,9 @@
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventTemplate\bin\Debug\EventTemplate.exe.config
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventTemplate\bin\Debug\EventTemplate.exe
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventTemplate\bin\Debug\EventTemplate.pdb
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventTemplate\obj\Debug\EventTemplate.csprojResolveAssemblyReference.cache
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventTemplate\obj\Debug\EventTemplate.exe
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventTemplate\obj\Debug\EventTemplate.pdb
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventTemplate\bin\Debug\EventTemplate.exe.config
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventTemplate\obj\Debug\EventTemplate.exe
+C:\Users\wille\Desktop\drive-download-20170113T024439Z\EventsTemplate\EventTemplate\obj\Debug\EventTemplate.pdb

@@ -1,0 +1,6 @@
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventsTemplate\bin\Debug\EventsTemplate.exe.config
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventsTemplate\bin\Debug\EventsTemplate.exe
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventsTemplate\bin\Debug\EventsTemplate.pdb
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventsTemplate\obj\Debug\EventsTemplate.csprojResolveAssemblyReference.cache
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventsTemplate\obj\Debug\EventsTemplate.exe
+c:\users\willy.herrera\documents\visual studio 2015\Projects\EventsTemplate\EventsTemplate\obj\Debug\EventsTemplate.pdb

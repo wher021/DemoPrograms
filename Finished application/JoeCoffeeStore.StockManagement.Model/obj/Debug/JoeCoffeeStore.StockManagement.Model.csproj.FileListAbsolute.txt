@@ -1,0 +1,10 @@
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.Model\bin\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.Model\bin\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\wille\Desktop\practical-mvvm\1-practical-mvvm-m1-exercise-files\Finished application\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.Model\bin\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.Model\bin\Debug\JoeCoffeeStore.StockManagement.Model.pdb
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.dll
+C:\Users\wille\Desktop\practical-mvvm\Finished application\JoeCoffeeStore.StockManagement.Model\obj\Debug\JoeCoffeeStore.StockManagement.Model.pdb
